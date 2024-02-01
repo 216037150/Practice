@@ -1,0 +1,44 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+
+}
+#first{
+    background-color: #1900ff; 
+    color: red;  
+    text-align: center;
+    margin-left: 330px;
+
+
+}
+
+#second{
+    background-color: greenyellow;
+    color: red;
+    text-align: center;
+    margin-left: 230px;
+
+   
+
+ 
+}
+#third{
+    background-color: rgb(140, 23, 236);
+    color: red;
+    text-align: center;
+    margin-right: 2x;
+    margin-left: 130px;
+
+
+
+
+}
+
+#fourth{
+    background-color: aqua;
+    color: red;
+    text-align: center;
+    margin-left: 30px;
+
+  }
